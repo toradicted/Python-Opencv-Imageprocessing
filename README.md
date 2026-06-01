@@ -8,6 +8,7 @@ Learning data for finger gesture recognition and notebook for learning
 
 
 Requirements
+
 mediapipe 0.8.1
 
 OpenCV 3.4.2 or Later
